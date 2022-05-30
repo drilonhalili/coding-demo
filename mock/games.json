@@ -1,0 +1,130 @@
+{
+  "1": [
+    {
+      "winner_score": 10,
+      "looser_id": 2,
+      "looser_score": 5
+    },
+    {
+      "winner_score": 5,
+      "looser_id": 4,
+      "looser_score": 4
+    },
+    {
+      "winner_score": 21,
+      "looser_id": 3,
+      "looser_score": 6
+    }
+  ],
+  "2": [
+    {
+      "winner_score": 11,
+      "looser_id": 1,
+      "looser_score": 5
+    },
+    {
+      "winner_score": 3,
+      "looser_id": 7,
+      "looser_score": 1
+    },
+    {
+      "winner_score": 5,
+      "looser_id": 3,
+      "looser_score": "n/a"
+    }
+  ],
+  "3": [
+    {
+      "winner_score": 55,
+      "looser_id": 2,
+      "looser_score": 20
+    },
+    {
+      "winner_score": 30,
+      "looser_id": 7,
+      "looser_score": 1
+    }
+  ],
+  "4": [
+    {
+      "winner_score": 55,
+      "looser_id": 2,
+      "looser_score": 20
+    },
+    {
+      "winner_score": 30,
+      "looser_id": 7,
+      "looser_score": 1
+    }
+  ],
+  "5": [],
+  "6": [
+    {
+      "winner_score": 1,
+      "looser_id": 5,
+      "looser_score": 0
+    },
+    {
+      "winner_score": 9,
+      "looser_id": 7,
+      "looser_score": 5
+    }
+  ],
+  "7": [
+    {
+      "winner_score": 9,
+      "looser_id": 10,
+      "looser_score": 6
+    },
+    {
+      "winner_score": 9,
+      "looser_id": 5,
+      "looser_score": 5
+    },
+    {
+      "winner_score": 19,
+      "looser_id": 3,
+      "looser_score": 5
+    },
+    {
+      "winner_score": 11,
+      "looser_id": 9,
+      "looser_score": 5
+    }
+  ],
+  "8": [
+    {
+      "winner_score": 11,
+      "looser_id": 5,
+      "looser_score": 6
+    },
+    {
+      "winner_score": 4,
+      "looser_id": 7,
+      "looser_score": 3
+    },
+    {
+      "winner_score": 7,
+      "looser_id": 7,
+      "looser_score": 2
+    }
+  ],
+  "9": [
+    {
+      "winner_score": 30,
+      "looser_id": 2,
+      "looser_score": 4
+    },
+    {
+      "winner_score": 40,
+      "looser_id": 10,
+      "looser_score": 30
+    },
+    {
+      "winner_score": 8,
+      "looser_id": 2,
+      "looser_score": 1
+    }
+  ],
+  "10": []
+}

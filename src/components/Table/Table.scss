@@ -1,0 +1,53 @@
+.container {
+  display: flex;
+  justify-content: center;
+  margin: 2rem;
+}
+
+.table {
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 2rem;
+  height: 100%;
+
+  th,
+  td {
+    height: 24px * 2;
+    padding: 0 24px;
+    border: 1px solid grey;
+  }
+
+  .highlighted {
+    background-color: green;
+  }
+}
+
+.nameButton {
+  background: none;
+  border: none;
+  cursor: pointer;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}
+
+.button {
+  background: none;
+  border: none;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.winner {
+  background-color: khaki;
+}
+
+.looser {
+  background-color: pink;
+}
